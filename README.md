@@ -1,6 +1,6 @@
 # MediaQuery TryOut
 
-![Design preview for the website that change for different device's screen](./design/desktop-preview.jpg)
+![Design preview for the website that change for different device's screen](MediaQueryGif.gif)
 
 ## Welcome! 👋
 
